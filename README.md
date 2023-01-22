@@ -9,13 +9,13 @@ Feature covered :-👀👀👀
 
 2 . Nested Routing ✔
 
-3. Dyanamic Routing ✔
+3 . Dyanamic Routing ✔
 
-3 . Navigation ✔
+4 . Navigation ✔
 
-4 . Scaleable Routing ✔
+5 . Scaleable Routing ✔
 
-5 . Color picker Here we can pick diffrent color with #code as per our requirement ✔
+6 . Color picker (Here we can pick diffrent color with #code as per our requirement) ✔
 
 Depoyment Link : color-picker-khaki.vercel.app 🚗🚗🚗
 
